@@ -68,23 +68,4 @@ class Safiya {
   final String goal =
       "Keep learning, building, and improving.";
 }
-Create a professional GitHub profile avatar for a female Flutter developer named Safiya.
 
-Style: elegant, modern, minimal, premium technology aesthetic.
-
-Design:
-- Dark navy/indigo background
-- A clean, sophisticated letter "S" in the center
-- Subtle Flutter-inspired geometric elements
-- Small coding/developer details integrated into the design
-- Elegant cyan and purple accents
-- Soft professional glow
-- High contrast
-- Clean and uncluttered
-- No human face
-- No full name
-- No unnecessary text
-- Suitable for a circular GitHub profile picture
-- Professional enough for a software developer portfolio
-- Square 1:1 composition
-- High resolution
